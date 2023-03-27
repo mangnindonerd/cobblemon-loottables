@@ -1,0 +1,22 @@
+village_mason 
+
+kings_rock
+protector
+oval_stone
+cracked_pot
+chipped_pot
+black_augurite
+peat_block
+light_clay
+hard_stone
+
+any of the evolution stones
+
+tannery
+silk_scarf
+choice_scarf
+choice_band
+focus_band
+muscle_band
+reaper_cloth
+sachet

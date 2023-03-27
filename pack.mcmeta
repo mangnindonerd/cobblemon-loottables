@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Modifies vanilla loottables to include cobblemon items"
+    }
+}
